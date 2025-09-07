@@ -16,3 +16,9 @@ It focuses on repayment behavior, default tendencies, and segmentation.
 ## Notes
 - The '.pbix' file is tracked with **Git LFS** due to size.
 
+## License
+This project is available under the MIT License for educational and reference purposes. The Power BI workbook (.pbix), data model, DAX measures, and documentation are original work created to demonstrate data visualization and analytics skills.
+
+## Copyright Notice
+© 2025 Thiri Htet (Clara). All rights reserved.
+This repository contains original dashboard design, DAX calculations, and documentation. Any datasets used are public/aggregate or simulated; no personally identifiable information is included. Data remains the property of its original source where applicable.
