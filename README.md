@@ -11,7 +11,7 @@ It focuses on repayment behavior, default tendencies, and segmentation.
 ## Usage
 1. Install Power BI Desktop (Windows).
 2. Download or clone this repository.
-3. Open `dashboard.pbix` in Power BI Desktop.
+3. Open `Credit_Risk_Dashboard.pbix` in Power BI Desktop.
 
 ## Notes
 - The '.pbix' file is tracked with **Git LFS** due to size.
