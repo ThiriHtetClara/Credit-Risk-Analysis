@@ -16,9 +16,3 @@ It focuses on repayment behavior, default tendencies, and segmentation.
 ## Notes
 - The '.pbix' file is tracked with **Git LFS** due to size.
 
-## License
-This project is available under the MIT License for educational and reference purposes. The Tableau workbook, calculated fields, and documentation are original work created to demonstrate data visualization and dashboard design skills.
-
-## Copyright Notice
-© 2025 Thiri Htet (Clara). All rights reserved.
-This repository contains original visualization design, calculated fields, and documentation. Any datasets used are public/aggregate or simulated; no personally identifiable or medical record data is included. Data remains the property of its original source where applicable.
