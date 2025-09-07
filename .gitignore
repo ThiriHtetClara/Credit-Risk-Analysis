@@ -1,0 +1,13 @@
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# temp files
+*.tmp
+*.log
+*.bak
+~$*
+
+# optional Power BI local artifacts
+*.pbix.local
+*.pbit.local
